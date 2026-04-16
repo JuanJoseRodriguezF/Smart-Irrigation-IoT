@@ -20,9 +20,8 @@ Este proyecto implementa un sistema de riego inteligente basado en IoT que permi
 
 ### Diagrama de bloques
 
-Sensores → ESP32 → Procesamiento → Bluetooth → Aplicación móvil  
-              ↓  
-           Activación de bomba
+<img width="826" height="164" alt="sistemaProyecto" src="https://github.com/user-attachments/assets/cfd86d9f-0130-480b-9015-96b7c2c8ab8a" />
+
 
 ### Componentes
 
